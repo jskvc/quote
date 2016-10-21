@@ -1,0 +1,31 @@
+body {
+    background-image: url("http://3.bp.blogspot.com/_gig0Pr1Fu4c/S9pnIm7oBCI/AAAAAAAACB0/Lvi2-bh-_Kc/s1600/Scottsdale+Option+1.jpg");
+}
+.box {
+    width: 600px;   
+    height: 300px;
+    border: 10px solid black; 
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #ddd;
+    border-radius: 3px;  
+    text-align: center;    
+}
+.buttons{
+  margin: 25px; 
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size:30px;  
+  margin:10px;
+ }
+#quote {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-color: "grey";
+  font-size:22px;  
+  text-align: left;  
+  margin-left: 20px; 
+  margin-right: 10px;
+}
